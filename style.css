@@ -546,7 +546,7 @@ li a{
      .rotate{
         padding: 0px 10px;
         bottom: 25px;
-        right: 110px;
+        right: 20px;
         transform: rotate(-20deg);
         border-radius: 10px;
      }
