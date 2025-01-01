@@ -262,11 +262,9 @@ li a{
     margin-left: 68px;
     margin-right: 100px;
 }
-/* .video{
-    height: 400px;
-    width: 500px;
-    border-radius: 10px;
-} */
+
+        
+
 .head3{
     font-weight: 800;
     font-size: 30px;
@@ -278,6 +276,25 @@ li a{
     display: flex;
     justify-content: space-between;
     margin: 80px 80px 80px 75px;
+}
+.rotate{
+    position: absolute;
+    transform: rotate(-20deg);
+    background-color: #FF5400;
+    padding: 5px 80px;
+    border-radius: 15px;
+    color: #ffffff;
+    bottom: 60px;
+    right: 10px;
+    text-align: center;
+}
+.roratePara{
+    margin-bottom: 0px;
+}
+
+.div5{
+    position: relative;
+    margin-right: 0px;
 }
 
 .div6{
@@ -384,7 +401,7 @@ li a{
         background-position: center;
         margin: 5px 5px 10px 5px;
         border-radius: 15px;
-        width: 290px;
+        width: 350px;
         
     
     
@@ -525,6 +542,21 @@ li a{
      }
      .image2{
         width: 290px;
+     }
+     .rotate{
+        padding: 0px 10px;
+        bottom: 25px;
+        right: 110px;
+        transform: rotate(-20deg);
+        border-radius: 10px;
+     }
+     .roratePara{
+        font-size: 10px;
+     }
+     .heading2{
+        font-weight: 800;
+        font-size: 15px;
+        margin-top: 0px;
      }
      .container12{
         width: 290px;
